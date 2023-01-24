@@ -1,4 +1,4 @@
-package com.spring.zthdesire.Controller;
+/*package com.spring.zthdesire.Controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
         import org.springframework.web.bind.annotation.RestController;
@@ -14,4 +14,4 @@ class RestControllerTest {
     public String shop(){
         return "Welcome to the shop";
     }
-}
+}*/
